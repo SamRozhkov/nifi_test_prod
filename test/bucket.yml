@@ -1,5 +1,5 @@
 flows:
-  fecc68fa-4543-47a0-88c2-aca0cbb1018d: {ver: 1, file: test.snapshot, comments: '',
-    author: anonymous, created: 1711612141220, flowName: test, flowDesc: ''}
+  fecc68fa-4543-47a0-88c2-aca0cbb1018d: {ver: 2, file: test.snapshot, comments: remove,
+    author: anonymous, created: 1711612187022, flowName: test, flowDesc: ''}
 layoutVer: 1
 bucketId: 14a7ecec-7a37-499f-8e18-c3ccbfd5a2c4
